@@ -2,7 +2,7 @@
 Este é um projeto de aplicação web desenvolvido em React que utiliza a API do TMDb (The Movie Database) para exibir informações sobre filmes. A aplicação utiliza React Router para navegação entre diferentes páginas e React Hooks para gerenciar o estado dos componentes.
 
 # Pré-requisitos
-Node.js instalado
+Node.js instalado e
 Conta no TMDb para obter a chave da API (API Key)
 
 # Funcionalidades
