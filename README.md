@@ -11,11 +11,10 @@ Página de Detalhes do Filme: Informações detalhadas sobre um filme específic
 Pesquisa de Filmes: Permite pesquisar filmes pelo título.
 
 # Tecnologias Utilizadas
-React
-React Router
-React Hooks
-HTML
-CSS
-TMDb API
+React,
+React Router,
+React Hooks,
+HTML,
+CSS,
+TMDb API,
 Vite
-
